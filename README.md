@@ -1,5 +1,5 @@
-### Hi there 👋
-I am a student who ~~hates homework~~ loves programming.
+### Dorukyum
+A random dude who writes code.
 
-### My GitHub stats:
-<img align="left" alt="Dorukyum's Stats" src="https://github-readme-stats.vercel.app/api?username=Dorukyum&count_private=true&show_icons=true&theme=blueberry">
+### My GitHub stats
+<img align="left" alt="Dorukyum's Stats" src="https://github-readme-stats.vercel.app/api?username=dorukyum&show_icons=true&theme=dark">
