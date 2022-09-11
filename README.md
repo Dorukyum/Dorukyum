@@ -23,3 +23,5 @@
 ### Contact
 
 <p align="left"> <a href="https://discord.gg/8JsMVhBP4W" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="My Discord Server" /></a> </p>
+
+<img alt="Dorukyum's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Dorukyum&count_private=true&title_color=FFFFFF&text_color=5865F2&bg_color=0d1117&border_color=23272A&border_radius=25">
